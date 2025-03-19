@@ -1,0 +1,115 @@
+2025-03-19 18:26:22 - Username not logged in
+2025-03-19 18:26:22 - The transition to login.html has been completed
+2025-03-19 18:26:25 - Username not logged in
+2025-03-19 18:26:25 - The transition to login.html has been completed
+2025-03-19 18:26:29 - Username not logged in
+2025-03-19 18:26:29 - The transition to login.html has been completed
+2025-03-19 18:26:32 - User user is already logged in
+2025-03-19 18:26:33 - The transition to to-do.jsp has been completed
+2025-03-19 18:26:36 - The transition to about-me.html has been completed
+2025-03-19 18:26:38 - The transition to to-do.jsp has been completed
+2025-03-19 18:26:40 - The transition to to-do.jsp has been completed
+2025-03-19 18:26:41 - The transition to to-do.jsp has been completed
+2025-03-19 18:26:43 - The transition to to-do.jsp has been completed
+2025-03-19 18:26:45 - Task not found for user: user Task: ${task}
+2025-03-19 18:26:45 - The task ${task} removed from the task storage for user: user
+2025-03-19 18:26:46 - Task not found for user: user Task: ${task}
+2025-03-19 18:26:46 - The task ${task} removed from the task storage for user: user
+2025-03-19 18:26:54 - Task added for user: user Task: Do homework
+2025-03-19 18:26:54 - The task Do homework added to the task storage for user: user
+2025-03-19 18:35:02 - Username not logged in
+2025-03-19 18:35:02 - The transition to login.html has been completed
+2025-03-19 18:35:05 - User user is already logged in
+2025-03-19 18:35:09 - The transition to to-do.jsp has been completed
+2025-03-19 18:35:15 - Task added for user: user Task: Do homework
+2025-03-19 18:35:15 - The task Do homework added to the task storage for user: user
+2025-03-19 18:35:17 - Task not found for user: user Task: ${task}
+2025-03-19 18:35:17 - The task ${task} removed from the task storage for user: user
+2025-03-19 18:35:18 - Task not found for user: user Task: ${task}
+2025-03-19 18:35:18 - The task ${task} removed from the task storage for user: user
+2025-03-19 18:40:13 - Username not logged in
+2025-03-19 18:40:13 - The transition to login.html has been completed
+2025-03-19 18:40:16 - User user is already logged in
+2025-03-19 18:40:18 - The transition to to-do.jsp has been completed
+2025-03-19 18:40:21 - Task added for user: user Task: Do homework
+2025-03-19 18:40:21 - The task Do homework added to the task storage for user: user
+2025-03-19 18:40:24 - Task added for user: user Task: Do homework
+2025-03-19 18:40:24 - The task Do homework added to the task storage for user: user
+2025-03-19 18:40:26 - Task added for user: user Task: Do homework
+2025-03-19 18:40:26 - The task Do homework added to the task storage for user: user
+2025-03-19 18:40:29 - Task added for user: user Task: 123
+2025-03-19 18:40:29 - The task 123 added to the task storage for user: user
+2025-03-19 18:40:31 - Task added for user: user Task: 1231412
+2025-03-19 18:40:31 - The task 1231412 added to the task storage for user: user
+2025-03-19 18:40:32 - Task not found for user: user Task: ${task}
+2025-03-19 18:40:32 - The task ${task} removed from the task storage for user: user
+2025-03-19 18:40:34 - Task not found for user: user Task: ${task}
+2025-03-19 18:40:34 - The task ${task} removed from the task storage for user: user
+2025-03-19 18:40:36 - The transition to to-do.jsp has been completed
+2025-03-19 18:40:39 - The transition to to-do.jsp has been completed
+2025-03-19 18:40:42 - The transition to to-do.jsp has been completed
+2025-03-19 18:40:45 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:25 - Username not logged in
+2025-03-19 18:44:25 - The transition to login.html has been completed
+2025-03-19 18:44:28 - User user is already logged in
+2025-03-19 18:44:29 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:32 - Task added for user: user Task: Do homework
+2025-03-19 18:44:32 - The task Do homework added to the task storage for user: user
+2025-03-19 18:44:32 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:35 - Task added for user: user Task: Do homework
+2025-03-19 18:44:35 - The task Do homework added to the task storage for user: user
+2025-03-19 18:44:35 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:37 - Task added for user: user Task: Do homework
+2025-03-19 18:44:37 - The task Do homework added to the task storage for user: user
+2025-03-19 18:44:37 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:39 - Task added for user: user Task: sasd
+2025-03-19 18:44:39 - The task sasd added to the task storage for user: user
+2025-03-19 18:44:39 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:43 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:45 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:46 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:47 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:49 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:50 - The transition to to-do.jsp has been completed
+2025-03-19 18:44:53 - The transition to to-do.jsp has been completed
+2025-03-19 18:46:31 - Username not logged in
+2025-03-19 18:46:31 - Username not logged in
+2025-03-19 18:46:31 - Username not logged in
+2025-03-19 18:46:31 - The transition to login.html has been completed
+2025-03-19 18:48:25 - Username not logged in
+2025-03-19 18:48:25 - The transition to login.html has been completed
+2025-03-19 18:48:27 - User user is already logged in
+2025-03-19 18:48:28 - The transition to to-do.jsp has been completed
+2025-03-19 18:48:31 - Task added for user: user Task: adasd
+2025-03-19 18:48:31 - The task adasd added to the task storage for user: user
+2025-03-19 18:48:31 - The transition to to-do.jsp has been completed
+2025-03-19 18:49:45 - The transition to registration.html has been completed
+2025-03-19 18:49:49 - The usernamejadskajsd has been registered
+2025-03-19 18:49:49 - The transition to to-do.jsp has been completed
+2025-03-19 18:49:52 - The transition to to-do.jsp has been completed
+2025-03-19 18:49:54 - The transition to to-do.jsp has been completed
+2025-03-19 18:49:57 - Task added for user: jadskajsd Task: Do homework
+2025-03-19 18:49:57 - The task Do homework added to the task storage for user: jadskajsd
+2025-03-19 18:49:57 - The transition to to-do.jsp has been completed
+2025-03-19 18:49:59 - Task added for user: jadskajsd Task: delete page
+2025-03-19 18:49:59 - The task delete page added to the task storage for user: jadskajsd
+2025-03-19 18:49:59 - The transition to to-do.jsp has been completed
+2025-03-19 18:51:18 - User user is already logged in
+2025-03-19 18:51:22 - The transition to to-do.jsp has been completed
+2025-03-19 18:51:26 - Task added for user: user Task: Do homework
+2025-03-19 18:51:26 - The task Do homework added to the task storage for user: user
+2025-03-19 18:51:26 - The transition to to-do.jsp has been completed
+2025-03-19 19:05:20 - User user is already logged in
+2025-03-19 19:05:24 - User user is already logged in
+2025-03-19 19:07:42 - User user is already logged in
+2025-03-19 19:07:46 - The transition to to-do.jsp has been completed
+2025-03-19 19:07:55 - Task added for user: user Task: Do homework
+2025-03-19 19:07:55 - The task Do homework added to the task storage for user: user
+2025-03-19 19:07:55 - The transition to to-do.jsp has been completed
+2025-03-19 19:07:57 - Task not found for user: user Task: ${task}
+2025-03-19 19:07:57 - The task ${task} removed from the task storage for user: user
+2025-03-19 19:07:57 - The transition to to-do.jsp has been completed
+2025-03-19 19:08:00 - The transition to to-do.jsp has been completed
+2025-03-19 19:08:03 - The transition to to-do.jsp has been completed
+2025-03-19 19:08:04 - The transition to to-do.jsp has been completed
+2025-03-19 19:08:05 - The transition to to-do.jsp has been completed
